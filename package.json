@@ -1,0 +1,23 @@
+{
+  "name": "Todo",
+  "version": "0.0.1",
+  "description": "A simple todo app",
+  "main": "server.js",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/varunoberoi/todo.git"
+  },
+  "keywords": [
+    "todo"
+  ],
+  "author": "Varun Oberoi",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.4.0",
+    "mongoose": "~3.6.20"
+  }
+}
