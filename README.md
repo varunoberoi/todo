@@ -1,4 +1,4 @@
 todo
 ====
 
-simple todo app
+simple todo app using express.js, node.js, mongodb
